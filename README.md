@@ -3,6 +3,9 @@ Aim:
 To determine the Transistor characteristics of CE amplifier using LTspice.
 Apparatus Required:
 LTspice Software
+Procedure:
+
+Input Characteristics i) Connect the circuit as per the circuit diagram. ii) Set VCE to a particular value and vary VBE in regular intervals of steps and note down the corresponding IB reading. Repeat the above procedure for different values of VCE. iii) Plot the graph: VBE vs IB for a constant VCE. Output Characteristics i) Connect the circuit as per the circuit diagram. ii) Set IB and vary VCE in regular intervals of steps and note down the corresponding IC reading. Repeat the above procedure for different values of IB. iii) Plot the graph: VCE vs IC for a constant IB.
 
 circuit diagram:
 
