@@ -3,13 +3,7 @@ Aim:
 To determine the Transistor characteristics of CE amplifier using LTspice.
 Apparatus Required:
 LTspice Software
-Theory:
 
-A BJT is a three terminal, two-junction semiconductor device in which the conduction is due to both the charge carriers. Hence it is a bipolar device. BJT is classified into two types - NPN and PNP. A PNP transistor consists of two P type regions with a layer of N type in between, while in an NPN transistor a layer of P is sandwiched between two N type regions. The transistor consists of three terminals emitter, collector and base. The emitter layer is the source of the charge carriers and it is heavily doped with moderate cross-sectional area. The collector collects the charge carriers and hence moderate doping and large cross sectional area. The base region acts a path for the movement of the charge carriers. In order to reduce the recombination of holes and electrons, the base region is lightly doped and is of hollow cross sectional area. Normally the transistor operates with the EB junction forward biased.
-Input Characteristics:
-The input characteristic of a CE configuration is the variation of base current (IB) with base-emitter voltage (VBE) for a constant collector-emitter voltage (VCE).
-Output Characteristics:
-The output characteristic of a CE configuration is the variation of collector current (IC) with collector-emitter voltage (VCE) for a constant base current (IB).
 Procedure:
 
 Input Characteristics
@@ -22,10 +16,12 @@ ii) Set IB and vary VCE in regular intervals of steps and note down the correspo
 iii) Plot the graph: VCE vs IC for a constant IB.
 
 circuit diagram:
+<img width="224" height="205" alt="ED exp 2 circuit diagram" src="https://github.com/user-attachments/assets/f2a262d1-831a-425a-b910-163b815fb186" />
 
 
 simulation result:
 
+<img width="1517" height="301" alt="ED exp 2 graph" src="https://github.com/user-attachments/assets/933c45d2-0c38-4c8a-b339-ebdafe08a710" />
 
 
 Result:
